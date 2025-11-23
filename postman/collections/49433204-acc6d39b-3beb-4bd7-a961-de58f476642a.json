@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "New Request",
+			"name": "end point get /tickets",
 			"id": "49433204-d8ff3058-e25b-4606-9ce4-86500bf63aca",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
