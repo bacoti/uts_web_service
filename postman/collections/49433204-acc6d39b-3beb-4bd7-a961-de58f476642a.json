@@ -53,7 +53,7 @@
 			"response": []
 		},
 		{
-			"name": "New Request",
+			"name": "end point delet /tickets",
 			"id": "49433204-ef0ebaf5-4543-4920-93c6-4eddcb804947",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
