@@ -29,7 +29,7 @@
 			"response": []
 		},
 		{
-			"name": "New Request",
+			"name": "end point get /tickets/:id",
 			"id": "49433204-b4654580-5d7b-4dd9-96c1-958bf0cc1810",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
